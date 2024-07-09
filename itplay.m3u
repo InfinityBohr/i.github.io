@@ -88,40 +88,43 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/in
 
 
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" tvg-chno="1" group-title="Discovery+",Discovery Channel HD
-https://discovery-vert.vercel.app/Discovery_Channel.m3u8
+https://raw.githubusercontent.com/vaathala00/hotstar/main/live/discovery/api/Discovery_Channel.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" tvg-chno="1" group-title="Discovery+",Discovery Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" tvg-chno="2" group-title="Discovery+",Animal Planet HD
-https://discovery-vert.vercel.app/Animal_Plannet.m3u8
+https://raw.githubusercontent.com/vaathala00/hotstar/main/live/discovery/api/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" tvg-chno="2" group-title="Discovery+",Animal Planet
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanetin-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png" tvg-chno="6" group-title="Discovery+",Investigation Discovery HD
-https://discovery-vert.vercel.app/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png" tvg-chno="6" group-title="Discovery+",Investigation Discovery
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png" tvg-chno="6" group-title="Discovery+",Investigation Discovery HD Multi
+https://raw.githubusercontent.com/vaathala00/hotstar/main/live/discovery/api/Investigation_Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png" tvg-chno="6" group-title="Discovery+",Investigation Discovery HD Eng
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-idhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png" tvg-chno="6" group-title="Discovery+",Investigation Discovery Hindi
 http://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-idin-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/644fb820-4583-4141-b251-bb2a70f2ca80.png" tvg-chno="4" group-title="Discovery+",TLC HD
-https://discovery-vert.vercel.app/TLC.m3u8
-#EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/644fb820-4583-4141-b251-bb2a70f2ca80.png" tvg-chno="4" group-title="Discovery+",TLC
+#EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/644fb820-4583-4141-b251-bb2a70f2ca80.png" tvg-chno="4" group-title="Discovery+",TLC HD Multi
+https://raw.githubusercontent.com/vaathala00/hotstar/main/live/discovery/api/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/644fb820-4583-4141-b251-bb2a70f2ca80.png" tvg-chno="4" group-title="Discovery+",TLC HD Eng
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlchdin-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/644fb820-4583-4141-b251-bb2a70f2ca80.png" tvg-chno="4" group-title="Discovery+",TLC Eng
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-tlcin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/0ab4383a-aa67-4166-aeb6-fcc1c6e02e66.png" tvg-chno="3" group-title="Discovery+",Discovery Science
-https://discovery-vert.vercel.app/Discovery_Science.m3u8
+https://raw.githubusercontent.com/vaathala00/hotstar/main/live/discovery/api/Discovery_Science.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/8104e113-f6d2-46b2-85e2-c2c497eb8307.png" tvg-chno="5" group-title="Discovery+",Discovery Turbo
-https://discovery-vert.vercel.app/Discovery_Turbo.m3u8
+https://raw.githubusercontent.com/vaathala00/hotstar/main/live/discovery/api/Discovery_Turbo.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/d187c23d-46da-4a59-8929-7534b7a01c0c.png" group-title="Discovery+",Eurosport HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/d187c23d-46da-4a59-8929-7534b7a01c0c.png" group-title="Discovery+",Eurosport
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png" tvg-chno="8" group-title="Discovery+",DMAX
-https://discovery-vert.vercel.app/DMAX.m3u8
+https://raw.githubusercontent.com/vaathala00/hotstar/main/live/discovery/api/DMAX.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/05/967c038f-8703-4f64-9446-5a9032c86c87.png" tvg-chno="9" group-title="Discovery+",TRVL Channel
-https://discovery-vert.vercel.app/TRVL_Channel.m3u8
+https://raw.githubusercontent.com/vaathala00/hotstar/main/live/discovery/api/TRVL_Channel.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/df769200-cd93-420a-834a-f0426323787e.png" tvg-chno="10" group-title="Discovery+",HGTV
-https://discovery-vert.vercel.app/HGTV.m3u8
+https://raw.githubusercontent.com/vaathala00/hotstar/main/live/discovery/api/HGTV.m3u8
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/512a525a-6841-4a53-bd25-22f5f055dd1a.png" tvg-chno="11" group-title="Discovery+",Food Network
-https://discovery-vert.vercel.app/Food%20Network.m3u8
+https://raw.githubusercontent.com/vaathala00/hotstar/main/live/discovery/api/Food%20Network.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" tvg-chno="12" group-title="Discovery+",Discovery Kids
-https://discovery-vert.vercel.app/Discovery_Kids.m3u8
-
+https://raw.githubusercontent.com/vaathala00/hotstar/main/live/discovery/api/Discovery_Kids.m3u8
 
 
 
